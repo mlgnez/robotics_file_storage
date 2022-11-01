@@ -1,0 +1,38 @@
+﻿@page "/counter"
+
+<PageTitle>Upload File</PageTitle>
+
+<h1>Upload Files</h1>
+
+<p>Upload files here</p>
+
+<InputFile OnChange = "@UploadFile" >Upload File</InputFile>
+
+CYRUS PUT YOUR STUFF HERE PLS
+
+@code {
+
+    //private string path = Environment.CurrentDirectory + @"/Robotics_FileStore"; //C:\Users\njv10\source\repos\Robotics File Storage\Robotics File Storage\FileStore\
+
+    async void UploadFile(InputFileChangeEventArgs e)
+    {
+
+        //string folder = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "/LocalLow";
+        string folder = "C:/temp";
+
+        string path = Path.Combine(folder, "FileStore/");
+
+        Directory.CreateDirectory(path);
+
+        Console.WriteLine("Path: " + path);
+
+        IBrowserFile file = e.File;
+
+        await using FileStream fs = new(path + file.Name, FileMode.Create);
+        await e.File.OpenReadStream().CopyToAsync(fs);
+
+        Console.WriteLine("uploading file" + e.File.Name);
+
+    }
+
+}

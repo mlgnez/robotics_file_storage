@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Robotics File Storage/1.0.0": {
+        "runtime": {
+          "Robotics File Storage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Robotics File Storage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
