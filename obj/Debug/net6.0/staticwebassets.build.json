@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JgUNqomdQf9m/WvOKFnObS3Ry3i7NyiRwQ572UN2BCE=",
+  "Hash": "CyPvY7ncZmJwab84ih9gjEf7+dwBi5kIb8aRlBlYbm8=",
   "Source": "Robotics File Storage",
   "BasePath": "_content/Robotics File Storage",
   "Mode": "Default",
@@ -16,6 +16,23 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\njv10\\.nuget\\packages\\blazordownloadfile\\2.4.0.2\\staticwebassets\\BlazorDownloadFileScript.js",
+      "SourceId": "BlazorDownloadFile",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\njv10\\.nuget\\packages\\blazordownloadfile\\2.4.0.2\\staticwebassets\\",
+      "BasePath": "_content/BlazorDownloadFile",
+      "RelativePath": "BlazorDownloadFileScript.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\njv10\\.nuget\\packages\\blazordownloadfile\\2.4.0.2\\staticwebassets\\BlazorDownloadFileScript.js"
+    },
     {
       "Identity": "C:\\Users\\njv10\\source\\repos\\Robotics File Storage\\Robotics File Storage\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Robotics File Storage.styles.css",
       "SourceId": "Robotics File Storage",

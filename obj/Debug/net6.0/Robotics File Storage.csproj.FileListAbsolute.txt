@@ -25,3 +25,5 @@ C:\Users\njv10\source\repos\Robotics File Storage\Robotics File Storage\obj\Debu
 C:\Users\njv10\source\repos\Robotics File Storage\Robotics File Storage\obj\Debug\net6.0\ref\Robotics File Storage.dll
 C:\Users\njv10\source\repos\Robotics File Storage\Robotics File Storage\obj\Debug\net6.0\Robotics File Storage.pdb
 C:\Users\njv10\source\repos\Robotics File Storage\Robotics File Storage\obj\Debug\net6.0\Robotics File Storage.genruntimeconfig.cache
+C:\Users\njv10\source\repos\Robotics File Storage\Robotics File Storage\bin\Debug\net6.0\BlazorDownloadFile.dll
+C:\Users\njv10\source\repos\Robotics File Storage\Robotics File Storage\obj\Debug\net6.0\Robotics File Storage.csproj.CopyComplete

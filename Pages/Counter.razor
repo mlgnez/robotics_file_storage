@@ -1,4 +1,7 @@
 ﻿@page "/counter"
+@using Robotics_File_Storage.Data.StorageTypes
+@using System.IO
+@using BlazorDownloadFile;
 
 <PageTitle>Upload File</PageTitle>
 
@@ -8,31 +11,112 @@
 
 <InputFile OnChange = "@UploadFile" >Upload File</InputFile>
 
+<button @onclick="setStorageTypeToDefault">
+    Storage Type: Default Storage
+</button>
+
+<button @onclick="setStorageTypeToDrive">
+    Storage Type: Google Drive
+</button>
+
+<button @onclick="getFiles">
+    List Files
+</button>
+
+@if (loadFiles)
+{
+    @foreach(string file in list)
+        {
+            Console.WriteLine(file);
+            <button @onclick="@(e => DownloadFile(file.Replace(path, "")))">
+                @file.Replace(path, "");
+            </button>
+
+        }
+}
+
 CYRUS PUT YOUR STUFF HERE PLS
 
 @code {
+    //initizliate variables and run methods on click
 
-    //private string path = Environment.CurrentDirectory + @"/Robotics_FileStore"; //C:\Users\njv10\source\repos\Robotics File Storage\Robotics File Storage\FileStore\
+    DefaultStorage storage = new DefaultStorage();
+
+    string path = Path.Combine("C:/temp", "FileStore/");
+
+    bool loadFiles = false;
+
+    List<String> list;
+
+    //------------------------------------------------------------------------------------------------------
+
+    int storageType = 0; //0 is default storage, and 1 is google drive
+
+    [Inject] IBlazorDownloadFileService BlazorDownloadFileService { get; set; }
+
+    protected override async Task OnInitializedAsync() => list = storage.getFiles(path);
 
     async void UploadFile(InputFileChangeEventArgs e)
     {
 
-        //string folder = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "/LocalLow";
-        string folder = "C:/temp";
+        if(storageType == 0)
+        {
+            DefaultStorage storage = new DefaultStorage();
 
-        string path = Path.Combine(folder, "FileStore/");
+            storage.loadFile(e.File, path);
 
-        Directory.CreateDirectory(path);
+        }else if(storageType == 1)
+        {
 
-        Console.WriteLine("Path: " + path);
+            //drive stuff goes here
 
-        IBrowserFile file = e.File;
 
-        await using FileStream fs = new(path + file.Name, FileMode.Create);
-        await e.File.OpenReadStream().CopyToAsync(fs);
+        }
 
-        Console.WriteLine("uploading file" + e.File.Name);
+    }
 
+    private void getFiles()
+    {
+
+        if(storageType == 0)
+        {
+            DefaultStorage storage = new DefaultStorage();
+
+            list = storage.getFiles(path);
+
+            loadFiles = true; 
+        }
+
+    }
+
+    async Task DownloadFile(string fileName)
+    {
+
+        if(storageType == 0)
+        {
+            DefaultStorage storage = new DefaultStorage();
+
+            var fileStream = storage.getFile(path, fileName);
+
+            await BlazorDownloadFileService.DownloadFile(fileName, fileStream, "application/octet-stream");
+
+        }else if(storageType == 1)
+        {
+
+            //drive stuff goes here
+
+        }
+
+    }
+
+    private void setStorageTypeToDefault()
+    {
+        storageType = 0;
+    }
+
+    private void setStorageTypeToDrive()
+    {
+        storageType = 1;
     }
 
 }

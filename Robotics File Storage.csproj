@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Robotics_FileStore\" />
+    <PackageReference Include="BlazorDownloadFile" Version="2.4.0.2" />
   </ItemGroup>
 
 </Project>
