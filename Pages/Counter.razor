@@ -2,6 +2,7 @@
 @using Robotics_File_Storage.Data.StorageTypes
 @using System.IO
 @using BlazorDownloadFile;
+@using FileDisplay
 
 <PageTitle>Upload File</PageTitle>
 
@@ -22,20 +23,19 @@
 <button @onclick="getFiles">
     List Files
 </button>
-
-@if (loadFiles)
-{
-    @foreach(string file in list)
+<div class="container">
+    @if (loadFiles || true)
+    {
+        @foreach(string file in list)
         {
             Console.WriteLine(file);
-            <button @onclick="@(e => DownloadFile(file.Replace(path, "")))">
-                @file.Replace(path, "");
-            </button>
-
+            // The "fileName", "storageType", and "path" arguments are the same that are needed for the DownloadFile() method
+            // The goal here is to change as little as possible, so I kept all variable names the same.
+            <FileObject fileName="@file.Replace(path, "")" storageType="@storageType" path="@path"/>
         }
-}
+    }
+</div>
 
-CYRUS PUT YOUR STUFF HERE PLS
 
 @code {
     //initizliate variables and run methods on click
@@ -52,7 +52,6 @@ CYRUS PUT YOUR STUFF HERE PLS
 
     int storageType = 0; //0 is default storage, and 1 is google drive
 
-    [Inject] IBlazorDownloadFileService BlazorDownloadFileService { get; set; }
 
     protected override async Task OnInitializedAsync() => list = storage.getFiles(path);
 
@@ -89,25 +88,9 @@ CYRUS PUT YOUR STUFF HERE PLS
 
     }
 
-    async Task DownloadFile(string fileName)
-    {
-
-        if(storageType == 0)
-        {
-            DefaultStorage storage = new DefaultStorage();
-
-            var fileStream = storage.getFile(path, fileName);
-
-            await BlazorDownloadFileService.DownloadFile(fileName, fileStream, "application/octet-stream");
-
-        }else if(storageType == 1)
-        {
-
-            //drive stuff goes here
-
-        }
-
-    }
+    // async Task DownloadFile(string fileName)
+    // Directly copied and unchanged in FileObject.razor
+    
 
     private void setStorageTypeToDefault()
     {

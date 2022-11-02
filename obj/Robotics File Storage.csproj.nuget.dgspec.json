@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\njv10\\source\\repos\\Robotics File Storage\\Robotics File Storage\\Robotics File Storage.csproj": {}
+    "F:\\Dev\\debug\\robotics_file_storage\\Robotics File Storage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\njv10\\source\\repos\\Robotics File Storage\\Robotics File Storage\\Robotics File Storage.csproj": {
+    "F:\\Dev\\debug\\robotics_file_storage\\Robotics File Storage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\njv10\\source\\repos\\Robotics File Storage\\Robotics File Storage\\Robotics File Storage.csproj",
+        "projectUniqueName": "F:\\Dev\\debug\\robotics_file_storage\\Robotics File Storage.csproj",
         "projectName": "Robotics File Storage",
-        "projectPath": "C:\\Users\\njv10\\source\\repos\\Robotics File Storage\\Robotics File Storage\\Robotics File Storage.csproj",
-        "packagesPath": "C:\\Users\\njv10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\njv10\\source\\repos\\Robotics File Storage\\Robotics File Storage\\obj\\",
+        "projectPath": "F:\\Dev\\debug\\robotics_file_storage\\Robotics File Storage.csproj",
+        "packagesPath": "C:\\Users\\rudy\\.nuget\\packages\\",
+        "outputPath": "F:\\Dev\\debug\\robotics_file_storage\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\njv10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rudy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,49 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Robotics_File_Storage
 build_property.RootNamespace = Robotics_File_Storage
-build_property.ProjectDir = C:\Users\njv10\source\repos\Robotics File Storage\Robotics File Storage\
+build_property.ProjectDir = F:\Dev\debug\robotics_file_storage\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\njv10\source\repos\Robotics File Storage\Robotics File Storage
+build_property.MSBuildProjectDirectory = F:\Dev\debug\robotics_file_storage
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/njv10/source/repos/Robotics File Storage/Robotics File Storage/App.razor]
+[F:/Dev/debug/robotics_file_storage/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/njv10/source/repos/Robotics File Storage/Robotics File Storage/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/njv10/source/repos/Robotics File Storage/Robotics File Storage/Pages/Index.razor]
+[F:/Dev/debug/robotics_file_storage/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/njv10/source/repos/Robotics File Storage/Robotics File Storage/Shared/SurveyPrompt.razor]
+[F:/Dev/debug/robotics_file_storage/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/njv10/source/repos/Robotics File Storage/Robotics File Storage/_Imports.razor]
+[F:/Dev/debug/robotics_file_storage/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/njv10/source/repos/Robotics File Storage/Robotics File Storage/Shared/MainLayout.razor]
+[F:/Dev/debug/robotics_file_storage/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-4kxa0nnkay
+
+[F:/Dev/debug/robotics_file_storage/Shared/FileObject.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEZpbGVPYmplY3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-0d0c643zlu
+
+[F:/Dev/debug/robotics_file_storage/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-nznz9btbps
 
-[C:/Users/njv10/source/repos/Robotics File Storage/Robotics File Storage/Shared/NavMenu.razor]
+[F:/Dev/debug/robotics_file_storage/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-a8ej31n34k
 
-[C:/Users/njv10/source/repos/Robotics File Storage/Robotics File Storage/Pages/Error.cshtml]
+[F:/Dev/debug/robotics_file_storage/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/njv10/source/repos/Robotics File Storage/Robotics File Storage/Pages/_Host.cshtml]
+[F:/Dev/debug/robotics_file_storage/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/njv10/source/repos/Robotics File Storage/Robotics File Storage/Pages/_Layout.cshtml]
+[F:/Dev/debug/robotics_file_storage/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
