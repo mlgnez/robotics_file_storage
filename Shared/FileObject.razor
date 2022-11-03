@@ -1,0 +1,103 @@
+@namespace FileDisplay
+@using Robotics_File_Storage.Data.StorageTypes
+@using System.IO
+@using BlazorDownloadFile;
+@using FileDisplay
+
+
+<div class="container" @onclick="@(e => DownloadFile())">
+    <img class="image" src="@GetFileTypeImage(fileExtension)"/>
+    <div class="title">
+        @(fileName.Substring(0,fileName.Length > maxFNLength ? maxFNLength : fileName.Length) + (fileName.Length > maxFNLength ? "..." : ""))
+    </div>
+    
+</div>
+
+
+@code {
+    const int maxFNLength = 18;
+
+    string filename;
+    string fileExtension;
+    string fullFileName;
+
+    // Demonstrates how a parent component can supply parameters
+    [Parameter]
+    public string? fileName { 
+        get
+        {
+            return filename;
+        } 
+        set
+        {
+            fullFileName = value;
+            var filePieces = value.Split('.');
+            filename = filePieces[0];
+            fileExtension = filePieces[1];
+            Console.WriteLine(fileExtension);
+        } 
+    }
+
+    [Parameter]
+    public string? path { get; set; }
+
+    [Parameter]
+    public int? storageType { get; set; }
+
+    [Inject] IBlazorDownloadFileService BlazorDownloadFileService { get; set; }
+
+    async Task DownloadFile()
+    {
+
+        if(storageType == 0)
+        {
+            DefaultStorage storage = new DefaultStorage();
+
+            var fileStream = storage.getFile(path, fullFileName);
+
+            await BlazorDownloadFileService.DownloadFile(fileName, fileStream, "application/octet-stream");
+
+        }else if(storageType == 1)
+        {
+
+            //drive stuff goes here
+
+        }
+
+    }
+
+    string GetFileTypeImage(string extension)
+    {
+        if(extension == "png" || extension == "jpg" || extension == "jpeg" || extension == "webp")
+        {
+            return "images/image.png";
+        }
+        else if(extension == "mp4" || extension == "mov" || extension == "avi" || extension == "webm")
+        {
+            return "images/video.png";
+        }
+        else if(extension == "psd" || extension == "prproj" || extension == "ai")
+        {
+            return "images/adobe.png";
+        }
+        else if(extension == "txt")
+        {
+            return "images/text.png";
+        }
+        else if(extension == "html" || extension == "css" || extension == "cs" || extension == "java" || extension == "class" || extension == "c" || extension == "cpp")
+        {
+            return "images/code.png";
+        }
+        else if(extension == "mp3" || extension == "wav" || extension == "ogg")
+        {
+            return "images/audio.png";
+        }
+        else if(extension == "exe" || extension == "msi" || extension == "dmg")
+        {
+            return "images/executable.png";
+        }
+
+        return "images/unknown.png";
+    }
+    
+}
