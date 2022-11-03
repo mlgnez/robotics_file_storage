@@ -58,3 +58,34 @@ F:\Dev\debug\robotics_file_storage\obj\Debug\net6.0\Robotics File Storage.genrun
 F:\Dev\debug\robotics_file_storage\obj\Debug\net6.0\ref\Robotics File Storage.dll
 F:\Dev\debug\robotics_file_storage\obj\Debug\net6.0\scopedcss\Shared\FileObject.razor.rz.scp.css
 F:\Dev\debug\robotics_file_storage\obj\Debug\net6.0\scopedcss\Pages\Counter.razor.rz.scp.css
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\bin\Debug\net6.0\appsettings.json
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\bin\Debug\net6.0\Robotics File Storage.staticwebassets.runtime.json
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\bin\Debug\net6.0\Robotics File Storage.exe
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\bin\Debug\net6.0\Robotics File Storage.deps.json
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\bin\Debug\net6.0\Robotics File Storage.runtimeconfig.json
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\bin\Debug\net6.0\Robotics File Storage.dll
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\bin\Debug\net6.0\Robotics File Storage.pdb
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\bin\Debug\net6.0\BlazorDownloadFile.dll
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\obj\Debug\net6.0\Robotics File Storage.csproj.AssemblyReference.cache
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\obj\Debug\net6.0\Robotics File Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\obj\Debug\net6.0\Robotics File Storage.AssemblyInfoInputs.cache
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\obj\Debug\net6.0\Robotics File Storage.AssemblyInfo.cs
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\obj\Debug\net6.0\Robotics File Storage.csproj.CoreCompileInputs.cache
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\obj\Debug\net6.0\Robotics File Storage.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\obj\Debug\net6.0\Robotics File Storage.RazorAssemblyInfo.cache
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\obj\Debug\net6.0\Robotics File Storage.RazorAssemblyInfo.cs
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\obj\Debug\net6.0\scopedcss\Pages\Counter.razor.rz.scp.css
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\obj\Debug\net6.0\scopedcss\Shared\FileObject.razor.rz.scp.css
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\obj\Debug\net6.0\scopedcss\bundle\Robotics File Storage.styles.css
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\obj\Debug\net6.0\scopedcss\projectbundle\Robotics File Storage.bundle.scp.css
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\obj\Debug\net6.0\Robotics File Storage.csproj.CopyComplete
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\obj\Debug\net6.0\Robotics File Storage.dll
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\obj\Debug\net6.0\refint\Robotics File Storage.dll
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\obj\Debug\net6.0\Robotics File Storage.pdb
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\obj\Debug\net6.0\Robotics File Storage.genruntimeconfig.cache
+C:\Users\rudy\OneDrive\Desktop\C# Projects\robotics_file_storage\obj\Debug\net6.0\ref\Robotics File Storage.dll

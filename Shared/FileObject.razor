@@ -15,10 +15,11 @@
 
 
 @code {
-    const int maxFNLength = 21;
+    const int maxFNLength = 18;
 
     string filename;
     string fileExtension;
+    string fullFileName;
 
     // Demonstrates how a parent component can supply parameters
     [Parameter]
@@ -29,6 +30,7 @@
         } 
         set
         {
+            fullFileName = value;
             var filePieces = value.Split('.');
             filename = filePieces[0];
             fileExtension = filePieces[1];
@@ -51,7 +53,7 @@
         {
             DefaultStorage storage = new DefaultStorage();
 
-            var fileStream = storage.getFile(path, fileName);
+            var fileStream = storage.getFile(path, fullFileName);
 
             await BlazorDownloadFileService.DownloadFile(fileName, fileStream, "application/octet-stream");
 
@@ -86,7 +88,16 @@
         {
             return "images/code.png";
         }
+        else if(extension == "mp3" || extension == "wav" || extension == "ogg")
+        {
+            return "images/audio.png";
+        }
+        else if(extension == "exe" || extension == "msi" || extension == "dmg")
+        {
+            return "images/executable.png";
+        }
 
         return "images/unknown.png";
     }
+    
 }

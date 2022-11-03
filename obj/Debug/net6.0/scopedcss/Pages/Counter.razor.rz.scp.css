@@ -3,4 +3,6 @@
     flex-direction: row;
     justify-content: flex-start;
     gap: 2vw;
+    flex-wrap: wrap;
+    width: 80%;
 }

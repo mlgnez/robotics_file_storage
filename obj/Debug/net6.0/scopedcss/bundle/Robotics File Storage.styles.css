@@ -4,12 +4,14 @@
     flex-direction: row;
     justify-content: flex-start;
     gap: 2vw;
+    flex-wrap: wrap;
+    width: 80%;
 }
 /* _content/Robotics File Storage/Shared/FileObject.razor.rz.scp.css */
 .container[b-0d0c643zlu] {
     background-color: #EBEBEB;
-    width: 18vw;
-    height: 15vw;
+    width: 14vw;
+    height: 11vw;
     margin: 0;
 
     display: flex;
@@ -22,8 +24,8 @@
 }
 
 img[b-0d0c643zlu] {
-    width: 60%;
-    margin-bottom: 4%;
+    width: 75%;
+    margin-bottom: 7%;
     border-radius: 10px;
 }
 
@@ -33,7 +35,7 @@ img[b-0d0c643zlu] {
     justify-content: center;
 
 
-    font-size: 1.25vw;
+    font-size: 1vw;
     line-height: 100%;
     height: 20%;
     text-align: center;
