@@ -6,10 +6,7 @@
 
 <PageTitle>Upload File</PageTitle>
 
-<h1>Upload Files</h1>
-
-<p>Upload files here</p>
-
+<h1>File Sharing Server</h1>
 <InputFile OnChange = "@UploadFile" >Upload File</InputFile>
 
 <button @onclick="setStorageTypeToDefault">
@@ -23,6 +20,7 @@
 <button @onclick="getFiles">
     List Files
 </button>
+
 <div class="container">
     @if (loadFiles)
     {

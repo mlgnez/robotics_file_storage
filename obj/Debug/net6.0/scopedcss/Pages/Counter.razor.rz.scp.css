@@ -1,3 +1,10 @@
+@font-face {
+    font-family: 'Inter';
+    font-weight: 100 900;
+    font-display: swap;
+    src: url("https://fonts.googleapis.com/css2?family=Inter&display=swap") format("woff2");
+}
+
 .container[b-4kxa0nnkay] {
     display: flex;
     flex-direction: row;
@@ -5,4 +12,17 @@
     gap: 2vw;
     flex-wrap: wrap;
     width: 80%;
+}
+h1[b-4kxa0nnkay] {
+    font-family: 'Inter', sans-serif;
+    font-size: 4em;
+}
+
+button[b-4kxa0nnkay]{
+    font-family: 'Inter', sans-serif;
+    font-size: 2em;
+}
+InputFile[b-4kxa0nnkay]{
+    font-family: 'Inter', sans-serif;
+    font-size: 2em;
 }

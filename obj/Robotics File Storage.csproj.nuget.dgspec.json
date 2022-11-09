@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\Robotics File Storage.csproj": {}
+    "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\Robotics File Storage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\Robotics File Storage.csproj": {
+    "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\Robotics File Storage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\Robotics File Storage.csproj",
+        "projectUniqueName": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\Robotics File Storage.csproj",
         "projectName": "Robotics File Storage",
-        "projectPath": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\Robotics File Storage.csproj",
-        "packagesPath": "C:\\Users\\rudy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\obj\\",
+        "projectPath": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\Robotics File Storage.csproj",
+        "packagesPath": "C:\\Users\\Cyrus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rudy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Cyrus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

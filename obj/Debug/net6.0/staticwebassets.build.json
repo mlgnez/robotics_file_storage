@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+mSgNDy/aIuvHXdTZeL5Tp/l3W0ZIO5JVxoujbUWMjA=",
+  "Hash": "fx32Ner6GVi+emRuSgBaIFGKNwVA4QK/Zi5+mNjb7zk=",
   "Source": "Robotics File Storage",
   "BasePath": "_content/Robotics File Storage",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Robotics File Storage\\wwwroot",
       "Source": "Robotics File Storage",
-      "ContentRoot": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\",
       "BasePath": "_content/Robotics File Storage",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\rudy\\.nuget\\packages\\blazordownloadfile\\2.4.0.2\\staticwebassets\\BlazorDownloadFileScript.js",
+      "Identity": "C:\\Users\\Cyrus\\.nuget\\packages\\blazordownloadfile\\2.4.0.2\\staticwebassets\\BlazorDownloadFileScript.js",
       "SourceId": "BlazorDownloadFile",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\rudy\\.nuget\\packages\\blazordownloadfile\\2.4.0.2\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Cyrus\\.nuget\\packages\\blazordownloadfile\\2.4.0.2\\staticwebassets\\",
       "BasePath": "_content/BlazorDownloadFile",
       "RelativePath": "BlazorDownloadFileScript.js",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\rudy\\.nuget\\packages\\blazordownloadfile\\2.4.0.2\\staticwebassets\\BlazorDownloadFileScript.js"
+      "OriginalItemSpec": "C:\\Users\\Cyrus\\.nuget\\packages\\blazordownloadfile\\2.4.0.2\\staticwebassets\\BlazorDownloadFileScript.js"
     },
     {
-      "Identity": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Robotics File Storage.styles.css",
+      "Identity": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Robotics File Storage.styles.css",
       "SourceId": "Robotics File Storage",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Robotics File Storage",
       "RelativePath": "Robotics File Storage.styles.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Robotics File Storage.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Robotics File Storage.styles.css"
     },
     {
-      "Identity": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Robotics File Storage.bundle.scp.css",
+      "Identity": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Robotics File Storage.bundle.scp.css",
       "SourceId": "Robotics File Storage",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Robotics File Storage",
       "RelativePath": "Robotics File Storage.bundle.scp.css",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Robotics File Storage.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Robotics File Storage.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "Robotics File Storage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\",
       "BasePath": "_content/Robotics File Storage",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Robotics File Storage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\",
       "BasePath": "_content/Robotics File Storage",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "Robotics File Storage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\",
       "BasePath": "_content/Robotics File Storage",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "Robotics File Storage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\",
       "BasePath": "_content/Robotics File Storage",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "Robotics File Storage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\",
       "BasePath": "_content/Robotics File Storage",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "Robotics File Storage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\",
       "BasePath": "_content/Robotics File Storage",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "Robotics File Storage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\",
       "BasePath": "_content/Robotics File Storage",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "Robotics File Storage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\",
       "BasePath": "_content/Robotics File Storage",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "Robotics File Storage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\",
       "BasePath": "_content/Robotics File Storage",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "Robotics File Storage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\",
       "BasePath": "_content/Robotics File Storage",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "Robotics File Storage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\",
       "BasePath": "_content/Robotics File Storage",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\css\\site.css",
       "SourceId": "Robotics File Storage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\",
       "BasePath": "_content/Robotics File Storage",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\favicon.ico",
       "SourceId": "Robotics File Storage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\",
       "BasePath": "_content/Robotics File Storage",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\images\\adobe.png",
+      "Identity": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\images\\adobe.png",
       "SourceId": "Robotics File Storage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\",
       "BasePath": "_content/Robotics File Storage",
       "RelativePath": "images/adobe.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\images\\adobe.png"
     },
     {
-      "Identity": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\images\\audio.png",
+      "Identity": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\images\\audio.png",
       "SourceId": "Robotics File Storage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\",
       "BasePath": "_content/Robotics File Storage",
       "RelativePath": "images/audio.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\audio.png"
     },
     {
-      "Identity": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\images\\code.png",
+      "Identity": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\images\\code.png",
       "SourceId": "Robotics File Storage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\",
       "BasePath": "_content/Robotics File Storage",
       "RelativePath": "images/code.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\code.png"
     },
     {
-      "Identity": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\images\\executable.png",
+      "Identity": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\images\\executable.png",
       "SourceId": "Robotics File Storage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\",
       "BasePath": "_content/Robotics File Storage",
       "RelativePath": "images/executable.png",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\images\\executable.png"
     },
     {
-      "Identity": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\images\\image.png",
+      "Identity": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\images\\image.png",
       "SourceId": "Robotics File Storage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\",
       "BasePath": "_content/Robotics File Storage",
       "RelativePath": "images/image.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\image.png"
     },
     {
-      "Identity": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\images\\text.png",
+      "Identity": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\images\\text.png",
       "SourceId": "Robotics File Storage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\",
       "BasePath": "_content/Robotics File Storage",
       "RelativePath": "images/text.png",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\images\\text.png"
     },
     {
-      "Identity": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\images\\unknown.png",
+      "Identity": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\images\\unknown.png",
       "SourceId": "Robotics File Storage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\",
       "BasePath": "_content/Robotics File Storage",
       "RelativePath": "images/unknown.png",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\images\\unknown.png"
     },
     {
-      "Identity": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\images\\video.png",
+      "Identity": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\images\\video.png",
       "SourceId": "Robotics File Storage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rudy\\OneDrive\\Desktop\\C# Projects\\robotics_file_storage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Cyrus\\OneDrive\\Documents\\robotics_file_storage\\wwwroot\\",
       "BasePath": "_content/Robotics File Storage",
       "RelativePath": "images/video.png",
       "AssetKind": "All",

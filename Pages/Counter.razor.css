@@ -1,8 +1,24 @@
-﻿.container {
+﻿@font-face {
+    font-family: 'Inter';
+    font-weight: 100 900;
+    font-display: swap;
+    src: url("https://fonts.googleapis.com/css2?family=Inter&display=swap") format("woff2");
+}
+
+.container {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
     gap: 2vw;
     flex-wrap: wrap;
     width: 80%;
+}
+h1 {
+    font-family: 'Inter', sans-serif;
+    font-size: 4em;
+}
+
+button{
+    font-family: 'Inter', sans-serif;
+    font-size: 2em;
 }
