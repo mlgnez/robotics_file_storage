@@ -4,8 +4,8 @@ A File storage program that allows users to connect to a website, and upload and
 
 This is meant and developed for FRC-5431's marketing team as their google drive is overflowing.
 
-# --- Credits ---
+## Credits
 
-[mlgnez(me)](https://github.com/mlgnez) - Programming and UI Design__
-[WiryWeare(Cyrus)](https://github.com/WiryWeare) - Programming UI__
+[mlgnez(me)](https://github.com/mlgnez) - Programming and UI Design | 
+[WiryWeare(Cyrus)](https://github.com/WiryWeare) - Programming UI | 
 [Rubyboat1207(Rudy)](https://github.com/Rubyboat1207) - Listing Files and custom file images
